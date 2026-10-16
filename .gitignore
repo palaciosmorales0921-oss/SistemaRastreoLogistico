@@ -1,0 +1,13 @@
+﻿bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
+.vs/
+client_secret.json
+*.json.user
+.DS_Store
+Thumbs.db
+*.log
