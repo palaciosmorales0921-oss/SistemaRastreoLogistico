@@ -11,3 +11,6 @@ ingresando el ID que aparece en su código QR.
 - [x] Diseño de la interfaz
 - [ ] Implementación del backend
 - [ ] Integración con Google Sheets
+
+## Versión B
+Esta es la versión B del panel de consulta, desarrollada por un compañero.
